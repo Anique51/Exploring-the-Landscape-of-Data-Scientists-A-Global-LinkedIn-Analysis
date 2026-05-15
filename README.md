@@ -119,8 +119,6 @@ Using Python analytics tools, we performed:
 
 ## 📈 Key Results (Examples of Findings)
 
-*(You may adjust based on real results once analysis is finalized)*
-
 * Data Scientists often transition from Software Engineering or Mathematics backgrounds.
 * Python, SQL, Machine Learning, and Statistics are the most universally required skills.
 * Certifications (Coursera, Google DS, IBM DS) are common among recent graduates.
